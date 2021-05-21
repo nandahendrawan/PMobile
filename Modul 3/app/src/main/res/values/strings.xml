@@ -1,0 +1,20 @@
+<resources>
+    <string name="textview">TextView</string>
+    <string name="si_b">AAAAA</string>
+    <string name="si_a">BBBBB</string>
+    <string name="si_c">CCCCC</string>
+    <string name="si_d">DDDDD</string>
+    <string name="panggilan">PANGGILAN</string>
+    <string name="status">STATUS</string>
+    <string name="chat">CHAT</string>
+    <string name="kamera">kamera</string>
+    <string name="tt_kw">Twitter KW</string>
+    <string name="titik">......................................................................................................</string>
+    <string name="pengaturan">pengaturan</string>
+    <string name="cari">cari</string>
+    <string name="stori">stori</string>
+    <string name="todo">TODO</string>
+    <string name="home">home</string>
+    <string name="lonceng">lonceng</string>
+    <string name="pesan">pesan</string>
+</resources>

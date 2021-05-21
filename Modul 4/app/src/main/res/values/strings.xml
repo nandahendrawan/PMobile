@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">modul4</string>
+    <string name="nama">Nama :</string>
+    <string name="gender">Gender :</string>
+    <string name="hobi">Hobi :</string>
+    <string name="radiobutton">RadioButton</string>
+    <string name="travelling">Travelling</string>
+    <string name="coding">Coding</string>
+    <string name="reading">Reading</string>
+
+    <string name="todo">TODO</string>
+
+</resources>
